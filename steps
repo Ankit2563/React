@@ -1,0 +1,6 @@
+need to download node
+to create the project run the command -> npx create-react-app
+or to create the project run the -> npm create vite@latest
+
+after the giving the name of project and selection install npm install in the projectfolder 
+to run-> npm run dev
